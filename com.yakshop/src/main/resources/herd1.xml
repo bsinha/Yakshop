@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<herd xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="herd.xsd">
+  <labyak age="0.0" name="NCName" sex="NCName"/>
+</herd>
